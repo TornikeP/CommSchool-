@@ -1,6 +1,1 @@
-# CommSchool- 
-# first l
-
-კიდე იგებს ნაკრები ? 
-
-
+# CommSchool-
